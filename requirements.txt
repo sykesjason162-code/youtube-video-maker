@@ -1,0 +1,8 @@
+# No pip packages required — all imports are Python standard library.
+#
+# System dependency (must be installed separately):
+#   ffmpeg >= 4.0
+#
+#   macOS:   brew install ffmpeg
+#   Ubuntu:  sudo apt install ffmpeg
+#   Windows: https://ffmpeg.org/download.html

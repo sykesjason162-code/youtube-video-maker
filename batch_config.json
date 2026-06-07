@@ -1,0 +1,11 @@
+{
+    "audio_folder":  "songs/",
+    "output_folder": "videos/",
+    "audio_extensions": [".mp3", ".wav", ".flac", ".m4a", ".aac"],
+
+    "images": [
+        { "file": "images/intro.png",  "position": "start", "duration": 10 },
+        { "file": "images/outro.png",  "position": "fill"                   },
+        { "file": "images/middle.png", "position": "end",   "duration": 10 }
+    ]
+}
