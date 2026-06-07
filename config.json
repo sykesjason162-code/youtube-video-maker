@@ -1,0 +1,10 @@
+{
+    "audio": "audio.mp3",
+    "output": "output.mp4",
+    "images": [
+        { "file": "intro.jpg",   "start": 0  },
+        { "file": "slide2.png",  "start": 10 },
+        { "file": "slide3.jpg",  "start": 25 },
+        { "file": "outro.png",   "start": 40 }
+    ]
+}
