@@ -1,0 +1,11 @@
+venv/
+videos/
+songs/
+*.mp4
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+__pycache__/
+*.pyc
