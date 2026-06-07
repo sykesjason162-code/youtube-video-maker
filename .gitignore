@@ -9,3 +9,4 @@ songs/
 *.aac
 __pycache__/
 *.pyc
+images/
